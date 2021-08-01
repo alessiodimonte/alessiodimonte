@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @alessiodimonte
+- 👀 I’m interested in all what concerns technology, in particular Computer Science
+- 🌱 I’m currently focusing on Artificial Intelligence, Machine Learning and Data Science 
