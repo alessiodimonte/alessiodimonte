@@ -8,7 +8,7 @@ Detail-oriented and result-driven Data Scientist with 3+ years of experience dev
 - B.S. in Information & Telecommunication Engineering (Università di Trento)
 
 📌 Projects:
-- Remote Image and Video Object Detection using YOLOv3 - Client and Server Infrastructure
+- Remote Image and Video Object Detection using YOLOv3
 - Continuous Deep Learning System for Underwater Animal Recognition
 - Face Detection from Real-Time Video Stream & Storage using Apache Spark
 - Classification model for startup industry recognition (NLP + DL)
