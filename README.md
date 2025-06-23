@@ -11,9 +11,9 @@ Detail-oriented and result-driven Data Scientist with 3+ years of experience dev
 - Remote Image and Video Object Detection using YOLOv3
 - Continuous Deep Learning System for Underwater Animal Recognition
 - Face Detection from Real-Time Video Stream & Storage using Apache Spark
-- Classification model for startup industry recognition (NLP + DL)
-- Treatment effect estimation for Multiple Sclerosis
-- Clinically significant prostate cancer detection
+- Classification Model for Startup Industry Identification (NLP + DL)
+- Treatment Effect Estimation for Multiple Sclerosis
+- Clinically Significant Prostate Cancer Detection
 
 📢 Contacts:
 - LinkedIn: https://www.linkedin.com/in/g-alessiodimonte/
