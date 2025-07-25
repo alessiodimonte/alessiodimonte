@@ -16,5 +16,5 @@ Detail-oriented and result-driven Data Scientist with 3+ years of experience dev
 - Clinically Significant Prostate Cancer Detection
 
 📢 Contacts:
-- LinkedIn: https://www.linkedin.com/in/g-alessiodimonte/
+- LinkedIn: https://www.linkedin.com/in/alessiodimonte/
 - Email: alessiodimonte.98@gmail.com
