@@ -17,4 +17,5 @@ Detail-oriented and result-driven Data Scientist with 3+ years of experience dev
 
 📢 Contacts:
 - LinkedIn: https://www.linkedin.com/in/alessiodimonte/
+- Kaggle: https://www.kaggle.com/alessiodimonte
 - Email: alessiodimonte.98@gmail.com
